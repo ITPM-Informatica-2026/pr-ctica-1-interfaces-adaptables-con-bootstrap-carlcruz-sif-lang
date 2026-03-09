@@ -1,13 +1,14 @@
 # 🏗️ Diseño y Programación Web II - ITPM 2026
 
-### 👤 Información del Estudiante
-* **Nombre:** [Escribe tu nombre] | **Sede:** Puerto de Mejillones
+# 🚀 Examen 1: Interfaces Adaptables con Bootstrap
 
-## 📚 Contenido Avanzado
-1. **Frameworks Front-End:** UI Kits y librerías modernas.
-2. **Frameworks JavaScript:** Interactividad avanzada.
-3. **Introducción a Aplicaciones:** Arquitectura de software web.
-4. **Patrón MVC:** Desarrollo de aplicaciones robustas con Modelo-Vista-Controlador.
+### 📝 Instrucciones:
+1. **Vincular Bootstrap:** Deben añadir la librería Bootstrap a su archivo `index.html`. 
+   - Pueden usar el **CDN oficial** (el enlace `<link>`) dentro de la etiqueta `<head>`.
+   - *Nota:* El sistema verificará automáticamente si el enlace está presente.
+2. **Crear la Interfaz:** Sigan el diseño propuesto en sus hojas de evaluación, usando el sistema de rejilla (Grid System).
+3. **Realizar Commit:** Al finalizar, guarden sus cambios con un mensaje descriptivo.
 
 ---
+⚠️ **Importante:** No modifiquen los archivos dentro de `.github` o `.devcontainer`.
 > **Proyecto Final:** Desarrollo de un sistema web funcional.
